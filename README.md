@@ -5,7 +5,7 @@ npm run git-config
 ```
 
 ```bash
-npm i envalid
+npm i envalid nodemon express
 npm start
 ```
 

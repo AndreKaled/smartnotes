@@ -4,6 +4,7 @@ import {getEnv} from "./utils/getEnv.ts";
 
 const app = express()
 const {PORT} = getEnv();
+const novavariavel = 123;
 
 app.get("/", (req: Request, res: Response) =>{
     res.send("AAADADADDA");
