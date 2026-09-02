@@ -4,6 +4,11 @@
 npm run git-config
 ```
 
+```bash
+npm i envalid
+npm start
+```
+
 # Ao sair
 
 ```bash
