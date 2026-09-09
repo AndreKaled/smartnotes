@@ -12,6 +12,7 @@ npm run install-tsc
 npm run build
 npm run start
 ```
+.
 
 # Ao sair
 
