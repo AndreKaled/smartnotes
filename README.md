@@ -26,3 +26,4 @@ rm -rf smartnotes
 ```bash
 rm -f ~/git-credentials
 ```
+Teste
