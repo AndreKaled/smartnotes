@@ -2,12 +2,12 @@ import { Router } from "express"
 
 const router = Router()
 
-router.get("/", (req: Request, res: Response) =>{
+router.get("/", (req, res) =>{
     res.send("AAADADADDA");
 })
 
 
-router.get("/about", (req: Request, res: Response) =>{
+router.get("/about", (req, res) =>{
     res.send("algo legal");
 })
 
