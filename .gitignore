@@ -3,3 +3,8 @@ node_modules
 dist
 logs/*
 !logs//.gitkeep
+/src/generated/prisma
+.agents/*
+.claude/*
+.windsurf/*
+prisma/migrations/*
